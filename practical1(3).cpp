@@ -9,7 +9,7 @@ int main()
     cout << "Enter a sentence: ";
     getline(cin, str);
 
-    str = str + " ";   
+    str = str + " ";
 
     for (int i = 0; i < str.length(); i++)
     {
